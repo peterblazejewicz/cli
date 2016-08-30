@@ -10,8 +10,8 @@ namespace Microsoft.DotNet.Cli.Build
     public class Monikers
     {
         public const string SharedFrameworkName = "Microsoft.NETCore.App";
-        public const string CLISdkBrandName = "Microsoft .NET Core 1.0.0 - SDK Preview 2";
-        public const string SharedFxBrandName = "Microsoft .NET Core 1.0.0 - Runtime";
+        public const string CLISdkBrandName = "Microsoft .NET Core 1.0.0 - SDK Preview 2.0.1";
+        public const string SharedFxBrandName = "Microsoft .NET Core 1.0.1 - Runtime";
         public const string SharedHostBrandName = "Microsoft .NET Core 1.0.0 - Host";
         public const string HostFxrBrandName = "Microsoft .NET Core 1.0.0 - Host FX Resolver";
 
